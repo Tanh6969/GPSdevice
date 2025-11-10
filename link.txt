@@ -1,1 +1,5 @@
 https://mable-fluffiest-suzette.ngrok-free.dev/map
+
+pip install -r requirements.txt
+
+https://mable-fluffiest-suzette.ngrok-free.dev/update?lat=21.035&lon=105.83
